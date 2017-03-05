@@ -31,3 +31,8 @@
 # Debug files
 *.dSYM/
 *.su
+
+# esp-idf files
+build
+sdkconfig
+sdkconfig.old
